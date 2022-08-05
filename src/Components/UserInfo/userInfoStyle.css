@@ -1,0 +1,21 @@
+.userInfo{
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.user{
+    padding: 10px;
+    margin: auto;
+}
+
+.avatar{
+    height: 30px;
+    width: 30px;
+    background: #454546;
+    border:solid black 1px ;
+    border-radius: 50%;
+    margin-right: 10px;
+}

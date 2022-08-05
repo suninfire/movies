@@ -1,0 +1,27 @@
+.movgen{
+    width: 10%;
+    background: #171a22;
+    margin: 10px;
+    margin-bottom: 0;
+}
+
+.genreButtons{
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+
+
+}
+
+.genreButton{
+    border: black solid 1px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0 10px 10px 10px;
+    color: #f3ebf6;
+}
+.genreButton:hover{
+    border: #f6e906 solid 3px;
+}

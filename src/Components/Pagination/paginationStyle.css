@@ -1,0 +1,18 @@
+.butt{
+    background-color: #020920;
+    color: white;
+    border: black solid 1px;
+    border-radius: 50%;
+    padding: 8px 16px;
+}
+.butt:hover{
+    background: yellow;
+    color: black;
+}
+
+.buttonBox{
+    display: flex;
+    width: 100px;
+    justify-content: space-between;
+}
+
